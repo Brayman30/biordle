@@ -6,7 +6,7 @@ set -u pipefall;
 
 UID=1001
 GID=1001
-USER=reactle
+USER=bio
 GROUP=reactle
 
 # Enable print for all executed commands
