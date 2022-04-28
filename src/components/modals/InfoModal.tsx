@@ -12,8 +12,11 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Guess the Biology related word in 6 tries. After each guess, the color
         of the tiles will change to show how close your guess was to the word.
-        <p className="underline font-bold color-red">HINT:</p> You don't have to
-        guess a Biology word, but the correct awnser will always be one.
+        <p className="underline font-bold color-red display-linebreak">
+          HINT:
+        </p>{' '}
+        You don't have to guess a Biology word, but the correct awnser will
+        always be one.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
