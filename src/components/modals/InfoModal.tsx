@@ -9,14 +9,12 @@ type Props = {
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="How to play" isOpen={isOpen} handleClose={handleClose}>
-      <p className="text-sm text-gray-500 dark:text-gray-300">
+      <p className="text-sm text-gray-500 dark:text-gray-300 display-linebreak">
         Guess the Biology related word in 6 tries. After each guess, the color
         of the tiles will change to show how close your guess was to the word.
-        <p className="underline font-bold color-red display-linebreak">
-          HINT:
-        </p>{' '}
-        You don't have to guess a Biology word, but the correct awnser will
-        always be one.
+        \n
+        <p className="underline font-bold color-red">HINT:</p> You don't have to
+        guess a Biology word, but the correct awnser will always be one.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
