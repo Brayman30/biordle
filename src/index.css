@@ -193,3 +193,7 @@ svg.cursor-pointer:hover {
 .display-linebreak {
   white-space: pre-line;
 }
+
+.color-red {
+  color: red;
+}
