@@ -1,5 +1,6 @@
 let CACHE_NAME = 'biordle'
 let urlsToCache = ['/', '/completed']
+export let onregister
 
 // Install a service worker
 /* eslint-disable-next-line no-restricted-globals */
