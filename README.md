@@ -2,7 +2,7 @@
 
 This is a forked project of a clone of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 =======
-gitg+merge+from+upstreamgitg+merge+from+upstream
+
 [**Try out the demo!**](https://reactle.vercel.app/)
 
 ## Projects built using the upstream version of this repo
