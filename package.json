@@ -52,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-rc.9",
     "autoprefixer": "^10.4.4",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.2",
@@ -61,5 +62,8 @@
   },
   "lint-staged": {
     "src/*.{ts,tsx,js,jsx,css,md}": "prettier --write"
+  },
+  "scripts": {
+    "tauri": "tauri"
   }
 }
