@@ -31,3 +31,4 @@ yarn-error.log*
 
 # development
 .vscode
+.vscode/settings.json
