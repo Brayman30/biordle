@@ -11,6 +11,7 @@ This is a forked project of a clone of the popular word guessing game we all kno
 - [Boludle](https://www.boludle.com/): Argentinian
 - [Gerdle](https://gerdle.vext.co.uk/): Cornish (Kernowek)
 - [Jwordle](https://jwordle.vercel.app/): Japanese
+- [Katadel](https://katadel.vercel.app/): Jawi (Malay Arabic script)
 - [Keclap](https://keclap.xyz/): Sundanese
 - [Kelmaly](https://kelmaly.com/): Arabic
 - [Kerdle](https://kerdle.vercel.app/): Cornish/Kernewek (Standard Written Form)
@@ -18,15 +19,18 @@ This is a forked project of a clone of the popular word guessing game we all kno
 - [Lexoula](https://lexoula.com/): Ελληνικά (Greek)
 - [Malay](https://malay-wordle.netlify.app/): Bahasa Malaysia
 - [Mondle](https://mondle.vercel.app/): Mongolian
+- [Parig](https://www.parig.xyz/): Western Armenian
 - [Parolette](https://parolette.netlify.app/): Italian
 - [Parolle.it](https://parolle.it): Italian
 - [Pashtoodle](https://pashtoodle.lingdocs.com): Pashto
 - [Persian](https://www.persian-wordle.ir/): Persian (Farsi)
+- [Persiga](https://www.persi.ga/): Portuguese
 - [Pinyin](https://www.pinyindle.com/): Pinyin (romanization system for Mandarin Chinese)
 - [Rudle](https://rudle.vercel.app): Russian
 - [Sindhal](https://hellosindh.com/sindhal): Sindhi
 - [Szózat](https://szozat.miklosdanka.com/): Hungarian
 - [So'zzana](https://sozzana.netlify.app/): O'zbek (Lotin)
+- [Tatar](https://tatardle.vercel.app/): Tatar (Turkic Language)
 - [Tàu Tâi-gí (Taigi Wordle)](https://tau.taigi.info/): Taigi (Taiwanese)
 - [Telugu](https://teluguwordle.com): Telugu (South Indian Language)
 - [Tlembung](https://tlembung.vercel.app/): Javanese
@@ -34,8 +38,8 @@ This is a forked project of a clone of the popular word guessing game we all kno
 - [Ukrainian](https://goroh.pp.ua/games/wordle): Ukrainian
 - [Urdle](https://urdle.chaoticity.com/): Urdu
 - [Vārdulis](https://wordle.lielakeda.lv/): Latvian
+- [Wokle](https://wokle.njamed.com/): Bininj Kunwok
 - [Word-leh!](https://word-leh.com): Singlish
-- [Wordlar](http://wordlar.uz/): Uzbek
 - [Wordle (BOS)](https://elahmo.github.io/wordle/): Bosnian
 - [Wordle (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
 - [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
@@ -43,6 +47,7 @@ This is a forked project of a clone of the popular word guessing game we all kno
 - [Wörtchen](https://woertchen.sofacoach.de): German
 - [SGWordle](https://sgwordle.now.sh/): Swiss German
 - [kelma.mt](https://kelma.mt): Maltese
+- [Žodelė](https://zodele.lt): Lithuanian
 - [Слівце](https://slivce.com/): Ukrainian
 - [ਪੰਜਾਬੀ](https://punjabipuzzle.netlify.app/): Punjabi
 - [சொல்லாடல் Soladle](https://omtamil.com/soladle): Tamil
@@ -54,35 +59,46 @@ This is a forked project of a clone of the popular word guessing game we all kno
 
 ### Fun themes
 
-- ['en si lì'ur](https://tirea.learnnavi.org/wordle): Na'vi, the constructed language from James Cameron's AVATAR (2009)
 - [Airportle](https://airportle.scottscheapflights.com/): Airport Codes
 - [Anidal](https://anidal-abrarhayat.web.app/): Animals
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
 - [Buildly](https://buildly.procurepro.co/): Construction themed
-- [Chipotle](https://chipotlele.herokuapp.com): Chipotle (food, items, etc.) themed
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
+- [DALL-e-dle](https://dall-e-dle.vercel.app/): Provides a DALL-E generated image of the word as a clue
 - [Dundle](https://dundle.dunmiffcord.com/): The Office
 - [FFXIVrdle](https://ffxivrdle.com/): Final Fantasy XIV
 - [Harry Potter](https://www.harrypotterwordle.com/): Harry Potter
 - [JoJodle](https://jojo-news.com/fun/jojodle/): JoJo’s Bizarre Adventure
 - [Mahjong Handle](https://mahjong-handle.update.sh/): Mahjong Hands
 - [Filmle](https://filmle.now.sh/): Movie titles
-- [Marvle](https://marvle.herokuapp.com): Superhero (Marvel and DC) themed
+- [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
+- [Lyricle](https://www.lyricle.app/): Lyrics
+- [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
 - [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
+- [Pawnle](https://pawnle.vercel.app/): Parks and Recreation
 - [Poker Handle](https://kikychow.github.io/poker-wordle/): Poker
+- [Poker Handle 2](https://poker-handle2.com/): Poker
+- [Polygonle](https://www.polygonle.com/): Wordle with a shape-based clue for each character
 - [Quettale](https://quettale.vercel.app/): Quenya, Elven language in LOTR
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
-- [RareWordle](https://rwordle.vercel.app/): Word guessing with multiple solutions each day where the goal is to find the most obscure one. It is inspired by the TV game show Pointless.
-- [Reverdle](https://reverdle.now.sh/): It's Wordle but in reverse, that is one hast to make as many guesses possible without having one green letter (i.e. one letter in the correct location compared to the hidden solution).
+- [RareWordle](https://rwordle.vercel.app/): Word guessing with multiple simultaneous solutions of varying "values", all created from the same letters. The goal is to find the most obscure solution. It is inspired by the TV game show Pointless.
+- [Reverdle](https://reverdle.now.sh/): Wordle but in reverse, that is one has to make as many guesses possible which do not have any green letter (i.e. a letter in the correct location compared to the hidden solution).
+- [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
+- [Tacticle](https://tacticle.co/): Chess puzzles
 - [Taylordle](https://www.taylordle.com/): Taylor Swift
 - [Trekle](https://treklegame.com): Star Trek
 - [Weedel](https://meetmeinouter.space/wordle/): Video game characters
 - [Wordle.cl](https://www.wordle.cl): Chilean modisms, cities, places
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
-- [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters. https://www.wroud.net/ A spinoff of Wordle but quite different and may be more fun!. WROUD = Word + Cloud
+- [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters.
+- [香港麻雀 糊 dle](https://hkwudle.vercel.app/): Mahjong hands under Hong Kong rules
+
+### Fun themes in other languages
+- [German Harry Potter Wordle](https://hpwordle.de)
+- [Spotle](https://spotlegame.co.uk/portuguese): Spotle, but in Portuguese
 
 ### Math, Acronyms, Science, Tech, and more
 
@@ -105,6 +121,7 @@ This is a forked project of a clone of the popular word guessing game we all kno
 - [TwoKinds](https://twokinds.me): There's only two kinds of people in this World.
 - [UNLOCOdle](https://unlocodle.collabital.com/): UNLOCODEs
 - [Visionle](https://orisenbazuru.github.io/visionle/): Guess the label of randomly chosen image from ImageNet/ImageNet-Sketch dataset (Machine learning)
+- [Zip-zap-bam!](https://aneets.github.io/zip-zap-bam/): Word ladder game.
 - [0xdle](https://0xdle.vercel.app/): Hexadecimal
 
-_Want to add one to the list? Just make a pull request or [let us know via a comment here](https://github.com/cwackerfuss/react-wordle/issues/120)_
+_Want to add one to the list? Just make a pull request to the upstream repo or [let them know via a comment here](https://github.com/cwackerfuss/react-wordle/issues/120)_
