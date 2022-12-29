@@ -9,11 +9,11 @@ type Props = {
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="How to play" isOpen={isOpen} handleClose={handleClose}>
-      <p className="text-sm text-gray-500 dark:text-gray-300 display-linebreak">
+      <p className="display-linebreak text-sm text-gray-500 dark:text-gray-300">
         Guess the Biology related word in 6 tries. After each guess, the color
         of the tiles will change to show how close your guess was to the word.
         <br></br>
-        <p className="underline font-bold color-red">HINT:</p> You don't have to
+        <p className="color-red font-bold underline">HINT:</p> You don't have to
         guess a Biology word, but the correct answer will always be one.
       </p>
 
@@ -60,12 +60,12 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         The letter U is not in the word in any spot.
       </p>
 
-      <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        This is a fork of a open source version of the word guessing game we
-        all know and love -{' '}
+      <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
+        This is a fork of a open source version of the word guessing game we all
+        know and love -{' '}
         <a
           href="https://github.com/Brayman30/biordle"
-          className="underline font-bold"
+          className="font-bold underline"
         >
           check out the code here
         </a>{' '}
