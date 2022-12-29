@@ -3,20 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "tauri": "tauri"
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "fix": "prettier --write src",
+    "lint": "prettier --check src",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.6",
-    "@tauri-apps/action-core": "^0.3.0",
-    "@tauri-apps/api": "^1.0.0-rc.5",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.4.0",
     "@types/node": "^16.11.19",
-    "@types/react": "^17.0.38",
-    "@types/react-dom": "^17.0.11",
     "@types/serviceworker": "^0.0.42",
     "@types/ua-parser-js": "^0.7.36",
     "classnames": "^2.3.1",
@@ -48,7 +50,8 @@
     ]
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.0-rc.10",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.10",
     "autoprefixer": "^10.4.4",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.2",

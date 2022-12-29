@@ -67,7 +67,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/Brayman30/biordle"
           className="underline font-bold"
         >
-          check out the forked version here
+          check out the code here
         </a>{' '}
       </p>
     </BaseModal>
