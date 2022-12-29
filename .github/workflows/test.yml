@@ -13,4 +13,4 @@ jobs:
       - run: |
           npm install
       - run: |
-          npm run test
+          npx react-scripts test

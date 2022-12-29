@@ -189,7 +189,6 @@ svg.cursor-pointer:hover {
     transform: translate(0, 0);
   }
 }
-
 /* Date picker */
 
 .react-datepicker {
@@ -290,4 +289,14 @@ svg.cursor-pointer:hover {
 
 .react-datepicker__day--range-end {
   @apply bg-indigo-600 text-white hover:bg-white hover:text-gray-700;
+}
+
+/* Forked Changes */
+
+.display-linebreak {
+  white-space: pre-line;
+}
+
+.color-red {
+  color: red;
 }
