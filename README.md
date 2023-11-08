@@ -1,6 +1,6 @@
 # Biordle
 
-This is a forked project of a clone of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+This is an UNMAINTAINED forked project of a clone of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 =======
 
 ## Projects built using the upstream version of this repo
